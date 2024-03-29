@@ -9,4 +9,9 @@ Welcome to my Project Euler Solutions repository! Here you'll find my solutions 
 
 This repository contains my solutions to Project Euler problems implemented in C++. While some solutions are straightforward code implementations, others incorporate mathematical proofs and explanations within the comments. My aim is not only to provide working solutions but also to offer insights into the underlying mathematical principles and problem-solving strategies.
 
+## Solutions
+
+**[1: Multiples of 3 and 5](solutions/ProjectEuler1)**
+
+**[2: Even fibonacci numbers](solutions/ProjectEuler2)**
 
