@@ -11,7 +11,7 @@ This repository contains my solutions to Project Euler problems implemented in C
 
 ## Solutions
 
-**[1: Multiples of 3 and 5](solutions/ProjectEuler1)**
+**[1: Multiples of 3 and 5](solutions/ProjectEuler1.cpp)**
 
-**[2: Even fibonacci numbers](solutions/ProjectEuler2)**
+**[2: Even fibonacci numbers](solutions/ProjectEuler2.cpp)**
 
