@@ -15,3 +15,5 @@ This repository contains my solutions to Project Euler problems implemented in C
 
 **[2: Even fibonacci numbers](solutions/ProjectEuler2.cpp)**
 
+**[3: Largest Prime Factor](solutions/projectEuler3.cpp)**
+
